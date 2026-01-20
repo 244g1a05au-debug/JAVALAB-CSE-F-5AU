@@ -52,6 +52,6 @@ File:
 sc.close();
 ```
 #output
-![output of quadratic equation](1b.output.png)
+![output of quadratic equation](1b.output.jpeg)
 
     
