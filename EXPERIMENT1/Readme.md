@@ -19,7 +19,7 @@ System.out.println( "Default value of boolean: " + obj.bool);
 }
 ```
 #output
-![output of primitive datatypes](<img width="182" height="88" alt="1a output" src="https://github.com/user-attachments/assets/4b558f71-1d70-4989-bbfd-7988deaab054" />)
+![output of primitive datatypes](1a.output.png)
 
 
     
