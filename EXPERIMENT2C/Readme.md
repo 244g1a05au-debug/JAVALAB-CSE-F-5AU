@@ -20,7 +20,6 @@ Student S1 = new Student ("Alice", 20, 85);
 S1.display ( );
 }
 }
-
-# OUTPUT
 ```
-![EXPERIMENT 2 OUTPUT](exp2c.png)
+# OUTPUT
+![exp2c](https://github.com/user-attachments/assets/702ddee7-9aa9-4a46-af4d-9e5d5b3d817e)
