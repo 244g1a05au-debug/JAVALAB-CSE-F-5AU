@@ -15,7 +15,7 @@ int result = obj.add(10, 20);
 System.out.println("sum: " + result);
 }
 }
-
-# OUTPUT
 ```
-![EXPERIMENT 2 OUTPUT](2a output.jpeg)
+# OUTPUT
+![Uploading 2a output.jpeg…]()
+
