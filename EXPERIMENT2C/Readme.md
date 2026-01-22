@@ -22,4 +22,5 @@ S1.display ( );
 }
 ```
 # OUTPUT
-![exp2c](https://github.com/user-attachments/assets/702ddee7-9aa9-4a46-af4d-9e5d5b3d817e)
+![updated exp 2c](https://github.com/user-attachments/assets/a4a01722-91af-4de4-b7da-9931c7393b2f)
+
