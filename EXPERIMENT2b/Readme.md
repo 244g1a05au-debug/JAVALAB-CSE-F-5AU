@@ -21,6 +21,6 @@ System.out.println("Result of adding two double values: " + sum2);
 System.out.println("Result of adding three integers: " + sum3);
 }
 }
-#output
 ```
-![EXPERIMENT 2b output](2b exp output.jpeg)
+# output
+![2a output](https://github.com/user-attachments/assets/2e606588-81a8-4f81-861f-824ba3e27af0)
